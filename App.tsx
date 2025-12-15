@@ -113,7 +113,7 @@ export default function App() {
         <section className="relative">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-blue-100/50 border border-blue-200 text-blue-700 text-xs font-bold uppercase tracking-wider mb-6">
             <Flame className="w-3 h-3" />
-            <span>深度重制版</span>
+            <span>笔尖定制版</span>
           </div>
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tighter leading-[1.1] text-gray-900">
             别让你的才华，<br />
